@@ -53,4 +53,4 @@ Revisit videos and sections on DOM manipulation since this is the most relevant 
 
 ## Author
 
-- Frontend Mentor - [@Kevin-Oversluizen](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Kevin-Oversluizen](https://www.frontendmentor.io/profile/Kevin-oversluizen)
