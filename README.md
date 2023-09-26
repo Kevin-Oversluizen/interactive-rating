@@ -13,8 +13,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://kevin-oversluizen.github.io/interactive-rating/)
+- Solution URL: [Github Page Solution](https://kevin-oversluizen.github.io/interactive-rating/)
 
 ## My process
 
@@ -55,5 +53,4 @@ Revisit videos and sections on DOM manipulation since this is the most relevant 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Kevin-Oversluizen](https://www.frontendmentor.io/profile/yourusername)
